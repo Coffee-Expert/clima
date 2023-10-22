@@ -3,7 +3,7 @@
 Want climate info? Here is is..
 
 # Clima - Your Personal Weather Assistant
-A weather Assistant app using OpenWeatherMap API
+A weather Assistant app using OpenWeatherMap API.
 ## Web Technologies used : Flutter, Dart, UI/UX, APIs
 ## IDE : Android Studio
 
