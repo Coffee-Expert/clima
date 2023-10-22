@@ -26,15 +26,13 @@ Clima is designed to address the need for preparation for unexpected weather cha
 ## Project ScreenShot:
 <div class="row">
   <div class="column">
-     <img src="https://github.com/Coffee-Expert/clima/blob/master/SCREENSHOTS/Screenshot_1.png"  width="200" height="400" />
+    <img src="https://github.com/Coffee-Expert/clima/blob/master/SCREENSHOTS/Screenshot_1.png" alt="Snow" style="width:100%">
   </div>
   <div class="column">
-    <img src="https://github.com/Coffee-Expert/clima/blob/master/SCREENSHOTS/Screenshot_1.png"  width="200" height="400" />
-
+    <img src="https://github.com/Coffee-Expert/clima/blob/master/SCREENSHOTS/Screenshot_1.png" alt="Forest" style="width:100%">
   </div>
   <div class="column">
-    <img src="https://github.com/Coffee-Expert/clima/blob/master/SCREENSHOTS/Screenshot_1.png"  width="200" height="400" />
-
+    <img src="https://github.com/Coffee-Expert/clima/blob/master/SCREENSHOTS/Screenshot_1.png" alt="Mountains" style="width:100%">
   </div>
 </div>
 ![Clima_1](https://github.com/Coffee-Expert/clima/blob/master/SCREENSHOTS/Screenshot_1.png)
