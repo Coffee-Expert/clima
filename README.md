@@ -24,13 +24,13 @@ Clima is designed to address the need for preparation for unexpected weather cha
 
 
 ## Project ScreenShot:
-<div style {
+<div 
+  class="row">
+  <div style {
   float: left;
   width: 33.33%;
   padding: 5px;
-}
-  class="row">
-  <div class="column">
+} class="column">
     <img src="https://github.com/Coffee-Expert/clima/blob/master/SCREENSHOTS/Screenshot_1.png" alt="Snow" style="width:100%">
   </div>
   <div class="column">
