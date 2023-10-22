@@ -26,10 +26,10 @@ Clima is designed to address the need for preparation for unexpected weather cha
 ## Project Screenshots:
 
 <div style="display: flex;">
-        <img src="https://github.com/Coffee-Expert/clima/blob/master/SCREENSHOTS/Screenshot_1.png" alt="Image 3" width="250" height="500">
-        <img src="https://github.com/Coffee-Expert/clima/blob/master/SCREENSHOTS/Screenshot_2.png" alt="Image 1" width="250" height="500">
-        <img src="https://github.com/Coffee-Expert/clima/blob/master/SCREENSHOTS/Screenshot_3.png" alt="Image 2" width="250" height="500">
-        <img src="https://github.com/Coffee-Expert/clima/blob/master/SCREENSHOTS/Screenshot_4.png" alt="Image 3" width="250" height="500">
+        <img src="https://github.com/Coffee-Expert/clima/blob/master/SCREENSHOTS/Screenshot_1.png" alt="Image 3" width="250" height="500" style="padding: 10px;">
+        <img src="https://github.com/Coffee-Expert/clima/blob/master/SCREENSHOTS/Screenshot_2.png" alt="Image 1" width="250" height="500" style="padding: 10px;">
+        <img src="https://github.com/Coffee-Expert/clima/blob/master/SCREENSHOTS/Screenshot_3.png" alt="Image 2" width="250" height="500" style="padding: 10px;">
+        <img src="https://github.com/Coffee-Expert/clima/blob/master/SCREENSHOTS/Screenshot_4.png" alt="Image 3" width="250" height="500" style="padding: 10px;">
     </div>
 
 
