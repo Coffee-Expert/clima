@@ -26,9 +26,9 @@ Clima is designed to address the need for preparation for unexpected weather cha
 ## Project Screenshots:
 
 <div style="display: flex;">
-        <img src="https://github.com/Coffee-Expert/clima/blob/master/SCREENSHOTS/Screenshot_1.png" alt="Image 1" width="200" height="150">
-        <img src=" https://github.com/Coffee-Expert/clima/blob/master/SCREENSHOTS/Screenshot_1.png" alt="Image 2" width="200" height="150">
-        <img src=" https://github.com/Coffee-Expert/clima/blob/master/SCREENSHOTS/Screenshot_1.png" alt="Image 3" width="200" height="150">
+        <img src="https://github.com/Coffee-Expert/clima/blob/master/SCREENSHOTS/Screenshot_1.png" alt="Image 1" width="200" height="500">
+        <img src="https://github.com/Coffee-Expert/clima/blob/master/SCREENSHOTS/Screenshot_1.png" alt="Image 2" width="200" height="500">
+        <img src="https://github.com/Coffee-Expert/clima/blob/master/SCREENSHOTS/Screenshot_1.png" alt="Image 3" width="200" height="500">
     </div>
 
 
@@ -39,7 +39,6 @@ Clima is designed to address the need for preparation for unexpected weather cha
 </ul>
 
 
-<!--- Previous image link-- https://github.com/Coffee-Expert/Health-bot-FRT/assets/137613929/e6d622c8-fb30-450b-9761-4a5cd68b005b -->
-
+ 
 
 
