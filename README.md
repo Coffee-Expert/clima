@@ -24,20 +24,7 @@ Clima is designed to address the need for preparation for unexpected weather cha
 
 
 ## Project Screenshots:
-<style>
-  column {
-  float: left;
-  width: 33.33%;
-  padding: 5px;
-}
 
-/* Clear floats after image containers */
-row::after {
-  content: "";
-  clear: both;
-  display: table;
-}
-</style>
 
 <div class="row">
   <div class="column">
@@ -50,7 +37,18 @@ row::after {
     <img src=" https://github.com/Coffee-Expert/clima/blob/master/SCREENSHOTS/Screenshot_1.png" alt="Mountains" style="width:100%">
   </div>
 </div>
-
+<style>
+  column {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
+row {
+  content: "";
+  clear: both;
+  display: table;
+}
+</style>
  
 ## Created, with love, by:
 <ul>
