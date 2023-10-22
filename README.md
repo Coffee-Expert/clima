@@ -26,26 +26,21 @@ Clima is designed to address the need for preparation for unexpected weather cha
 ## Project ScreenShot:
 <div 
   class="row">
-  <div style {
-  float: left;
-  width: 33.33%;
-  padding: 5px;
-} class="column">
-    <img src="https://github.com/Coffee-Expert/clima/blob/master/SCREENSHOTS/Screenshot_1.png" alt="Snow" style="width:100%">
+  <div  class="column">
+    <img src="https://github.com/Coffee-Expert/clima/blob/master/SCREENSHOTS/Screenshot_1.png" alt="Snow" style="width:250">
   </div>
   <div class="column">
-    <img src="https://github.com/Coffee-Expert/clima/blob/master/SCREENSHOTS/Screenshot_1.png" alt="Forest" style="width:100%">
+    <img src="https://github.com/Coffee-Expert/clima/blob/master/SCREENSHOTS/Screenshot_2.png" alt="Forest" style="width:250">
   </div>
   <div class="column">
-    <img src="https://github.com/Coffee-Expert/clima/blob/master/SCREENSHOTS/Screenshot_1.png" alt="Mountains" style="width:100%">
+    <img src="https://github.com/Coffee-Expert/clima/blob/master/SCREENSHOTS/Screenshot_3.png" alt="Mountains" style="width:250">
+  </div>
+  <div class="column">
+    <img src="https://github.com/Coffee-Expert/clima/blob/master/SCREENSHOTS/Screenshot_4.png" alt="Mountains" style="width:250">
   </div>
 </div>
 
-![Clima_1](https://github.com/Coffee-Expert/clima/blob/master/SCREENSHOTS/Screenshot_1.png)
-![Clima_2](https://github.com/Coffee-Expert/clima/blob/master/SCREENSHOTS/Screenshot_2.png)
-![Clima_3](https://github.com/Coffee-Expert/clima/blob/master/SCREENSHOTS/Screenshot_3.png)
-![Clima_3](https://github.com/Coffee-Expert/clima/blob/master/SCREENSHOTS/Screenshot_4.png)
-
+ 
 ## Created, with love, by:
 <ul>
   <li>  Abhishek Kevin Gomes  [Coffee-Expert]  </li> 
