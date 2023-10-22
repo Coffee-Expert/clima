@@ -23,20 +23,31 @@ Clima is designed to address the need for preparation for unexpected weather cha
 5. **Secure Communication:** HealthBot ensures data privacy and secure communication with healthcare professionals, complying with regulations.
 
 
-## Project ScreenShot:
-<div 
-  class="row">
-  <div  class="column">
-    <img src="https://github.com/Coffee-Expert/clima/blob/master/SCREENSHOTS/Screenshot_1.png" alt="Snow" width="200" height="400"">
+## Project Screenshots:
+<style>
+  column {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
+
+/* Clear floats after image containers */
+row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+</style>
+
+<div class="row">
+  <div class="column">
+    <img src=" https://github.com/Coffee-Expert/clima/blob/master/SCREENSHOTS/Screenshot_1.png" alt="Snow" style="width:100%">
   </div>
   <div class="column">
-    <img src="https://github.com/Coffee-Expert/clima/blob/master/SCREENSHOTS/Screenshot_2.png" alt="Forest" width="200" height="400">
+    <img src=" https://github.com/Coffee-Expert/clima/blob/master/SCREENSHOTS/Screenshot_1.png" alt="Forest" style="width:100%">
   </div>
   <div class="column">
-    <img src="https://github.com/Coffee-Expert/clima/blob/master/SCREENSHOTS/Screenshot_3.png" alt="Mountains" width="200" height="400">
-  </div>
-  <div class="column">
-    <img src="https://github.com/Coffee-Expert/clima/blob/master/SCREENSHOTS/Screenshot_4.png" alt="TREES" width="200" height="400"">
+    <img src=" https://github.com/Coffee-Expert/clima/blob/master/SCREENSHOTS/Screenshot_1.png" alt="Mountains" style="width:100%">
   </div>
 </div>
 
