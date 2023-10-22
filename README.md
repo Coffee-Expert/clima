@@ -24,6 +24,7 @@ Clima is designed to address the need for preparation for unexpected weather cha
 
 
 ## Project ScreenShot:
+<img src="https://github.com/Coffee-Expert/clima/blob/master/SCREENSHOTS/Screenshot_1.png"  width="200" height="400" />
 ![Clima_1](https://github.com/Coffee-Expert/clima/blob/master/SCREENSHOTS/Screenshot_1.png)
 ![Clima_2](https://github.com/Coffee-Expert/clima/blob/master/SCREENSHOTS/Screenshot_2.png)
 ![Clima_3](https://github.com/Coffee-Expert/clima/blob/master/SCREENSHOTS/Screenshot_3.png)
