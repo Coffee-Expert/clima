@@ -12,15 +12,21 @@ Clima is designed to address the need for preparation for unexpected weather cha
 
 ## Key Features
 
-1. **Health Information Repository:** HealthBot provides a vast database of credible health content, from articles to videos, readily accessible to users.
+1. **Weather Information:** The app provides real-time weather information using the OpenWeatherMap API. Users can access data like temperature, humidity, wind speed, and more.
 
-2. **Symptom Checker:** Users describe symptoms, and HealthBot offers potential causes and recommendations using natural language processing.
+2. **Personalized Recommendations:** Clima offers personalized weather recommendations. This could include suggestions on what to wear, whether to carry an umbrella, and other weather-related advice.
 
-3. **Personalized Health Plans:** HealthBot gathers user data, creating tailored health plans including exercise routines, diet advice, and health tips.
+3. **City Selection:** Users can select and receive weather updates for their current location or any city of their choice. This allows for tracking weather conditions in multiple locations.
 
-4. **Health Data Tracking:** Users input and track health metrics, with HealthBot providing insights and alerts based on the data.
+4. **User-Friendly UI/UX:** The app is designed with a user-friendly and intuitive user interface and user experience, making it easy for users to access weather information.
 
-5. **Secure Communication:** HealthBot ensures data privacy and secure communication with healthcare professionals, complying with regulations.
+5. **Flutter and Dart:** The app is developed using the Flutter framework and Dart programming language, ensuring cross-platform compatibility and fast development.
+
+6. **API Integration:** It integrates with the OpenWeatherMap API to fetch weather data, ensuring accuracy and up-to-date information.
+
+7. **Android Studio IDE:** The development environment used is Android Studio, a popular choice for Flutter app development.
+
+8. **Weather Awareness:** Clima aims to increase users' awareness of weather conditions, helping them prepare for unexpected changes in the weather.
 
 
 ## Project Screenshots:
